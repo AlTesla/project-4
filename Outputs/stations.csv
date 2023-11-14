@@ -1,164 +1,164 @@
-,station,district,ints,lat,long
-0,Zaragoza,Venustiano Carranza,1,19.4130896,-99.08234751
-1,Isabel la Católica,Cuauhtémoc,1,19.4272577,-99.13794795
-2,Moctezuma,Venustiano Carranza,1,19.42701693,-99.10974636
-3,Pino Suárez,Cuauhtémoc,2,19.42461778,-99.13296013
-4,Gómez Farías,Venustiano Carranza,1,19.41667224,-99.09022073
-5,Deportivo 18 de Marzo,Gustavo A. Madero,2,19.48366308,-99.12578088
-6,La Villa/Basílica,Gustavo A. Madero,1,19.48208507,-99.11833507
-7,Pantitlán,Iztacalco,4,19.41517202,-99.07421146
-8,Aculco,Iztapalapa,1,19.37396941,-99.10782163
-9,Velódromo,Iztacalco,1,19.40864227,-99.10309116
-10,Autobuses del Norte,Gustavo A. Madero,1,19.47903934,-99.14062067
-11,Misterios,Cuauhtémoc,1,19.46339241,-99.13041046
-12,Constituyentes,Miguel Hidalgo,1,19.41192368,-99.19129727
-13,Refinería,Azcapotzalco,1,19.47290454,-99.18932402
-14,Etiopía/Plaza de la Transparencia,Benito Juárez,1,19.39609649,-99.15603484
-15,Polanco,Miguel Hidalgo,1,19.4339447,-99.1913441
-16,Canal del Norte,Cuauhtémoc,1,19.44902601,-99.11589573
-17,Bondojito,Gustavo A. Madero,1,19.46487271,-99.11199075
-18,Santa Anita,Iztacalco,2,19.40433349,-99.12065927
-19,Popotla,Miguel Hidalgo,1,19.45317301,-99.17550073
-20,General Anaya,Benito Juárez,1,19.35332517,-99.14497036
-21,División del Norte,Benito Juárez,1,19.3793824,-99.15955511
-22,Zapata,Benito Juárez,2,19.37103395,-99.16520901
-23,Fray Servando,Venustiano Carranza,1,19.42181389,-99.12051919
-24,Hangares,Venustiano Carranza,1,19.42461538,-99.08834022
-25,El Rosario,Azcapotzalco,2,19.50481693,-99.20003315
-26,Ferrería/Arena Ciudad de México,Azcapotzalco,1,19.4909026,-99.17411782
-27,Instituto del Petróleo,Gustavo A. Madero,2,19.49156982,-99.14818627
-28,Coyuya,Iztacalco,1,19.39812925,-99.11345508
-29,Apatlaco,Iztacalco,1,19.37981869,-99.10931557
-30,La Viga,Iztacalco,1,19.40686862,-99.12624199
-31,Chabacano,Cuauhtémoc,3,19.40888733,-99.13557653
-32,San Juan de Letrán,Cuauhtémoc,1,19.43174187,-99.14120709
-33,Barranca del Muerto,Álvaro Obregón,1,19.36166523,-99.18924473
-34,Garibaldi/Lagunilla,Cuauhtémoc,2,19.44398952,-99.13868965
-35,Buenavista,Cuauhtémoc,1,19.4465343,-99.15281142
-36,Guerrero,Cuauhtémoc,2,19.44507549,-99.14572477
-37,Oceanía,Venustiano Carranza,2,19.44515743,-99.08679921
-38,Nezahualcóyotl,Venustiano Carranza,1,19.47278574,-99.05480351
-39,Revolución,Benito Juárez,1,19.43940783,-99.15427752
-40,Indios Verdes,Gustavo A. Madero,1,19.49509909,-99.11962367
-41,Hidalgo,Cuauhtémoc,2,19.43754669,-99.14716154
-42,Colegio Militar,Miguel Hidalgo,1,19.45018053,-99.17162174
-43,Normal,Cuauhtémoc,1,19.44488224,-99.16735883
-44,San Cosme,Cuauhtémoc,1,19.44211444,-99.16075492
-45,Juárez,Cuauhtémoc,1,19.43345233,-99.1476049
-46,Olímpica,Benito Juárez,1,19.52146795,-99.03326063
-47,Ciudad Azteca,Ecatepec,1,19.53501602,-99.02770373
-48,Tlaltenco,Tláhuac,1,19.29749662,-99.02145465
-49,Insurgentes Sur,Benito Juárez,1,19.37374213,-99.17872959
-50,Culhuacán,Iztapalapa,1,19.33705823,-99.10896136
-51,Calle 11,Iztapalapa,1,19.3207036,-99.08589673
-52,Chilpancingo,Benito Juárez,1,19.40608043,-99.16856529
-53,Peñón Viejo,Tláhuac,1,19.37348027,-99.01705707
-54,Canal de San Juan,Iztacalco,1,19.39894109,-99.05938091
-55,Lomas Estrella,Iztapalapa,1,19.32236622,-99.09584173
-56,San Andrés Tomatlán,Iztapalapa,1,19.32833051,-99.10444555
-57,Ermita,Iztapalapa,2,19.36133552,-99.14309523
-58,Xola,Benito Juárez,1,19.3952847,-99.13781813
-59,Salto del Agua,Cuauhtémoc,2,19.42734927,-99.14209536
-60,Balderas,Cuauhtémoc,2,19.42697186,-99.14926215
-61,Portales,Benito Juárez,1,19.37109224,-99.14152075
-62,Eduardo Molina,Gustavo A. Madero,1,19.45158805,-99.10544122
-63,Candelaria,Venustiano Carranza,2,19.42971199,-99.1208349
-64,Aragón,Gustavo A. Madero,1,19.46321761,-99.06151538
-65,Tacubaya,Miguel Hidalgo,3,19.40205585,-99.18732515
-66,San Pedro de los Pinos,Álvaro Obregón,1,19.39156671,-99.18579989
-67,Camarones,Azcapotzalco,1,19.47928386,-99.18979172
-68,Doctores,Cuauhtémoc,1,19.42171829,-99.14325845
-69,San Antonio,Tláhuac,1,19.38611229,-99.18699052
-70,Mixcoac,Álvaro Obregón,2,19.37630913,-99.18783511
-71,Tacuba,Miguel Hidalgo,2,19.45941271,-99.1875565
-72,Martín Carrera,Gustavo A. Madero,2,19.48856978,-99.10378661
-73,Auditorio,Miguel Hidalgo,1,19.42541701,-99.19179008
-74,Aquiles Serdán,Azcapotzalco,1,19.49081122,-99.19527967
-75,San Joaquín,Miguel Hidalgo,1,19.4452106,-99.19170909
-76,Morelos,Venustiano Carranza,2,19.43987244,-99.11819292
-77,San Antonio Abad,Cuauhtémoc,1,19.41604841,-99.13467821
-78,Viaducto,Benito Juárez,1,19.40102178,-99.13684636
-79,Norte 45,Gustavo A. Madero,1,19.48892017,-99.16307715
-80,Vallejo,Gustavo A. Madero,1,19.49005226,-99.15601073
-81,Tezozómoc,Azcapotzalco,1,19.49518955,-99.19615495
-82,UAM-Azcapotzalco,Azcapotzalco,1,19.49104729,-99.1862686
-83,Bellas Artes,Cuauhtémoc,2,19.43658233,-99.14161
-84,Cuitláhuac,Azcapotzalco,1,19.45856254,-99.18174583
-85,Terminal Aérea,Venustiano Carranza,1,19.43420101,-99.08801228
-86,Eugenia,Benito Juárez,1,19.38638251,-99.1571249
-87,Observatorio,Miguel Hidalgo,1,19.39993964,-99.20091498
-88,Cuatro Caminos,Miguel Hidalgo,1,19.46116048,-99.2158172
-89,Panteones,Azcapotzalco,1,19.45885242,-99.20296073
-90,Copilco,Coyoacán,1,19.33643867,-99.17710602
-91,Centro Médico,Cuauhtémoc,2,19.40682761,-99.15481543
-92,Universidad,Coyoacán,1,19.32707781,-99.17339802
-93,Lindavista,Gustavo A. Madero,1,19.48831227,-99.13504855
-94,Coyoacán,Coyoacán,1,19.36156242,-99.1707849
-95,Jamaica,Venustiano Carranza,2,19.41112432,-99.1215219
-96,La Raza,Gustavo A. Madero,2,19.4698487,-99.1365206
-97,Viveros/Derechos Humanos,Coyoacán,1,19.35426668,-99.17536409
-98,Miguel Ángel de Quevedo,Coyoacán,1,19.34644352,-99.18047713
-99,Chapultepec,Miguel Hidalgo,1,19.4206528,-99.17692436
-100,Obrera,Cuauhtémoc,1,19.41312279,-99.1439295
-101,Allende,Cuauhtémoc,1,19.43591562,-99.13685366
-102,Zócalo/Tenochtitlan,Cuauhtémoc,1,19.43260264,-99.13222347
-103,Nativitas,Benito Juárez,1,19.37970868,-99.14023145
-104,Boulevard Puerto Aéreo,Venustiano Carranza,1,19.42134193,-99.09559697
-105,Sevilla,Benito Juárez,1,19.42172763,-99.17092969
-106,Villa de Cortés,Benito Juárez,1,19.38760429,-99.13876731
-107,Consulado,Venustiano Carranza,2,19.45815121,-99.11390763
-108,Talismán,Gustavo A. Madero,1,19.47414769,-99.10792179
-109,Valle Gómez,Venustiano Carranza,1,19.45910407,-99.11947723
-110,Politécnico,Gustavo A. Madero,1,19.50080394,-99.14922687
-111,Niños Héroes,Benito Juárez,1,19.41958089,-99.15038
-112,Hospital General,Cuauhtémoc,1,19.413932,-99.15322855
-113,Tasqueña,Coyoacán,1,19.34389508,-99.13948874
-114,Potrero,Gustavo A. Madero,1,19.4773422,-99.1320093
-115,Tlatelolco,Cuauhtémoc,1,19.45522707,-99.14315382
-116,Balbuena,Venustiano Carranza,1,19.42354375,-99.10246987
-117,Tepito,Cuauhtémémoc,1,19.44301632,-99.12417011
-118,Merced,Cuauhtémoc,1,19.42880238,-99.12514363
-119,Insurgentes,Cuauhtémoc,1,19.37636355,-99.17904072
-120,Juanacatlán,Cuajimalpa,1,19.41316181,-99.18203426
-121,Plaza Aragón,Ecatepec,1,19.52870985,-99.03017328
-122,Guelatao,Iztapalapa,1,19.38533627,-99.03562282
-123,Lagunilla,Cuauhtémoc,1,19.44378973,-99.13726807
-124,La Paz,La Paz (Estado de México),1,19.35088633,-98.96100293
-125,Iztapalapa,Iztapalapa,1,19.35791341,-99.09330116
-126,Patriotismo,Benito Juárez,1,19.41373789,-99.17877289
-127,Cerro de la Estrella,Iztapalapa,1,19.35622206,-99.08562
-128,Zapotitlán,Tláhuac,1,19.29699056,-99.03448011
-129,Nopalera,Tláhuac,1,19.3002509,-99.04597223
-130,Olivos,Tláhuac,1,19.304563,-99.05955292
-131,Río de los Remedios,Gustavo A. Madero,1,19.49080734,-99.04651832
-132,Múzquiz,Gustavo A. Madero,1,19.50172259,-99.04213438
-133,Atlalilco,Iztapalapa,2,19.35628,-99.10113398
-134,Tezonco,Iztapalapa,1,19.30647037,-99.06525227
-135,Impulsora,Nezahualcóyotl,1,19.48579048,-99.04906459
-136,Escuadrón 201,Nezahualcóyotl,1,19.36479434,-99.10921855
-137,Periférico Oriente,Nezahualcóyotl,1,19.31770648,-99.0742148
-138,Iztacalco,Iztacalco,1,19.38888283,-99.112122
-139,Tláhuac,Tláhuac,1,19.28602612,-99.01397488
-140,UAM-I,Iztapalapa,1,19.35118032,-99.07494245
-141,Ecatepec,Ecatepec,1,19.51568362,-99.03597508
-142,Acatitla,Iztapalapa,1,19.36489362,-99.00559799
-143,Hospital 20 de Noviembre,Álvaro Obregón,1,19.37513809,-99.17138532
-144,Eje Central,Cuauhtémoc,1,19.36149191,-99.15135573
-145,Parque de los Venados,Benito Juárez,1,19.37089278,-99.15873073
-146,San Lázaro,Cuauhtémoc,2,19.43218267,-99.11361413
-147,Romero Rubio,Venustiano Carranza,1,19.44086402,-99.09457593
-148,Villa de Aragón,Gustavo A. Madero,1,19.46182561,-99.06132922
-149,Tepalcates,Venustiano Carranza,1,19.39150175,-99.04631455
-150,Agrícola Oriental,Iztacalco,1,19.40480343,-99.06956552
-151,Deportivo Oceanía,Venustiano Carranza,1,19.45256944,-99.07914353
-152,Puebla,Venustiano Carranza,1,19.40725469,-99.08248352
-153,Ciudad Deportiva,Iztacalco,1,19.40858411,-99.09127037
-154,Mixiuhca,Venustiano Carranza,1,19.40860313,-99.11330192
-155,Bosque de Aragón,Nezahualcóyotl,1,19.45827188,-99.0690585
-156,Santa Marta,Iztapalapa,1,19.3604744,-98.9951561
-157,Los Reyes,La Paz (Estado de México),1,19.35934185,-98.9768549
-158,Constitución de 1917,Tláhuac,1,19.34627899,-99.06358403
-159,Cuauhtémoc,Cuauhtémoc,1,19.42595841,-99.15460746
-160,Mexicaltzingo,Iztapalapa,1,19.35802316,-99.12315073
-161,Ricardo Flores Magón,Cuauhtémoc,1,19.43734392,-99.10374723
-162,Lázaro Cárdenas,Cuauhtémoc,1,19.40722337,-99.14443376
+,station,district,line,ints,influx,Lat,Long
+0,Zaragoza,Venustiano Carranza,Línea 1,1,20227,19.4130896,-99.08234751
+1,Isabel la Católica,Cuauhtémoc,Línea 1,1,6487,19.4272577,-99.13794795
+2,Moctezuma,Venustiano Carranza,Línea 1,1,10304,19.42701693,-99.10974636
+3,Pino Suárez,Cuauhtémoc,Línea 1,2,8679,19.42461778,-99.13296013
+4,Gómez Farías,Venustiano Carranza,Línea 1,1,19499,19.41667224,-99.09022073
+5,Deportivo 18 de Marzo,Gustavo A. Madero,Línea 6,2,621,19.48366308,-99.12578088
+6,La Villa/Basílica,Gustavo A. Madero,Línea 6,1,24792,19.48208507,-99.11833507
+7,Pantitlán,Iztacalco,Línea 9,4,27000,19.41517202,-99.07421146
+8,Aculco,Iztapalapa,Línea 8,1,3652,19.37396941,-99.10782163
+9,Velódromo,Iztacalco,Línea 9,1,3239,19.40864227,-99.10309116
+10,Autobuses del Norte,Gustavo A. Madero,Línea 5,1,16824,19.47903934,-99.14062067
+11,Misterios,Cuauhtémoc,Línea 5,1,3513,19.46339241,-99.13041046
+12,Constituyentes,Miguel Hidalgo,Línea 7,1,1417,19.41192368,-99.19129727
+13,Refinería,Azcapotzalco,Línea 7,1,2325,19.47290454,-99.18932402
+14,Etiopía/Plaza de la Transparencia,Benito Juárez,Línea 3,1,7078,19.39609649,-99.15603484
+15,Polanco,Miguel Hidalgo,Línea 7,1,6173,19.4339447,-99.1913441
+16,Canal del Norte,Cuauhtémoc,Línea 4,1,2317,19.44902601,-99.11589573
+17,Bondojito,Gustavo A. Madero,Línea 4,1,2474,19.46487271,-99.11199075
+18,Santa Anita,Iztacalco,Línea 4,2,1042,19.40433349,-99.12065927
+19,Popotla,Miguel Hidalgo,Línea 2,1,2419,19.45317301,-99.17550073
+20,General Anaya,Benito Juárez,Línea 2,1,6819,19.35332517,-99.14497036
+21,División del Norte,Benito Juárez,Línea 3,1,2417,19.3793824,-99.15955511
+22,Zapata,Benito Juárez,Línea 3,2,7334,19.37103395,-99.16520901
+23,Fray Servando,Venustiano Carranza,Línea 4,1,2667,19.42181389,-99.12051919
+24,Hangares,Venustiano Carranza,Línea 5,1,1826,19.42461538,-99.08834022
+25,El Rosario,Azcapotzalco,Línea 6,2,7912,19.50481693,-99.20003315
+26,Ferrería/Arena Ciudad de México,Azcapotzalco,Línea 6,1,2370,19.4909026,-99.17411782
+27,Instituto del Petróleo,Gustavo A. Madero,Línea 6,2,362,19.49156982,-99.14818627
+28,Coyuya,Iztacalco,Línea 8,1,5322,19.39812925,-99.11345508
+29,Apatlaco,Iztacalco,Línea 8,1,5122,19.37981869,-99.10931557
+30,La Viga,Iztacalco,Línea 8,1,2790,19.40686862,-99.12624199
+31,Chabacano,Cuauhtémoc,Línea 8,3,1927,19.40888733,-99.13557653
+32,San Juan de Letrán,Cuauhtémoc,Línea 8,1,9869,19.43174187,-99.14120709
+33,Barranca del Muerto,Álvaro Obregón,Línea 7,1,5684,19.36166523,-99.18924473
+34,Garibaldi/Lagunilla,Cuauhtémoc,Línea B,2,2901,19.44398952,-99.13868965
+35,Buenavista,Cuauhtémoc,Línea B,1,16083,19.4465343,-99.15281142
+36,Guerrero,Cuauhtémoc,Línea B,2,1019,19.44507549,-99.14572477
+37,Oceanía,Venustiano Carranza,Línea B,2,3519,19.44515743,-99.08679921
+38,Nezahualcóyotl,Venustiano Carranza,Línea B,1,9094,19.47278574,-99.05480351
+39,Revolución,Benito Juárez,Línea 2,1,7441,19.43940783,-99.15427752
+40,Indios Verdes,Gustavo A. Madero,Línea 3,1,50075,19.49509909,-99.11962367
+41,Hidalgo,Cuauhtémoc,Línea 3,2,15418,19.43754669,-99.14716154
+42,Colegio Militar,Miguel Hidalgo,Línea 2,1,4062,19.45018053,-99.17162174
+43,Normal,Cuauhtémoc,Línea 2,1,9443,19.44488224,-99.16735883
+44,San Cosme,Cuauhtémoc,Línea 2,1,6343,19.44211444,-99.16075492
+45,Juárez,Cuauhtémoc,Línea 3,1,3276,19.43345233,-99.1476049
+46,Olímpica,Benito Juárez,Línea B,1,8569,19.52146795,-99.03326063
+47,Ciudad Azteca,Ecatepec,Línea B,1,22411,19.53501602,-99.02770373
+48,Tlaltenco,Tláhuac,Línea 12,1,0,19.29749662,-99.02145465
+49,Insurgentes Sur,Benito Juárez,Línea 12,1,0,19.37374213,-99.17872959
+50,Culhuacán,Iztapalapa,Línea 12,1,0,19.33705823,-99.10896136
+51,Calle 11,Iztapalapa,Línea 12,1,0,19.3207036,-99.08589673
+52,Chilpancingo,Benito Juárez,Línea 9,1,6356,19.40608043,-99.16856529
+53,Peñón Viejo,Tláhuac,Línea A,1,4047,19.37348027,-99.01705707
+54,Canal de San Juan,Iztacalco,Línea A,1,4182,19.39894109,-99.05938091
+55,Lomas Estrella,Iztapalapa,Línea 12,1,0,19.32236622,-99.09584173
+56,San Andrés Tomatlán,Iztapalapa,Línea 12,1,0,19.32833051,-99.10444555
+57,Ermita,Iztapalapa,Línea 12,2,0,19.36133552,-99.14309523
+58,Xola,Benito Juárez,Línea 2,1,5569,19.3952847,-99.13781813
+59,Salto del Agua,Cuauhtémoc,Línea 1,2,5483,19.42734927,-99.14209536
+60,Balderas,Cuauhtémoc,Línea 1,2,3771,19.42697186,-99.14926215
+61,Portales,Benito Juárez,Línea 2,1,6088,19.37109224,-99.14152075
+62,Eduardo Molina,Gustavo A. Madero,Línea 5,1,2560,19.45158805,-99.10544122
+63,Candelaria,Venustiano Carranza,Línea 4,2,1727,19.42971199,-99.1208349
+64,Aragón,Gustavo A. Madero,Línea 5,1,2349,19.46321761,-99.06151538
+65,Tacubaya,Miguel Hidalgo,Línea 7,3,2061,19.40205585,-99.18732515
+66,San Pedro de los Pinos,Álvaro Obregón,Línea 7,1,1641,19.39156671,-99.18579989
+67,Camarones,Azcapotzalco,Línea 7,1,3160,19.47928386,-99.18979172
+68,Doctores,Cuauhtémoc,Línea 8,1,2000,19.42171829,-99.14325845
+69,San Antonio,Tláhuac,Línea 7,1,2776,19.38611229,-99.18699052
+70,Mixcoac,Álvaro Obregón,Línea 7,2,5419,19.37630913,-99.18783511
+71,Tacuba,Miguel Hidalgo,Línea 7,2,2258,19.45941271,-99.1875565
+72,Martín Carrera,Gustavo A. Madero,Línea 6,2,7877,19.48856978,-99.10378661
+73,Auditorio,Miguel Hidalgo,Línea 7,1,4350,19.42541701,-99.19179008
+74,Aquiles Serdán,Azcapotzalco,Línea 7,1,4480,19.49081122,-99.19527967
+75,San Joaquín,Miguel Hidalgo,Línea 7,1,4339,19.4452106,-99.19170909
+76,Morelos,Venustiano Carranza,Línea 4,2,2420,19.43987244,-99.11819292
+77,San Antonio Abad,Cuauhtémoc,Línea 2,1,7424,19.41604841,-99.13467821
+78,Viaducto,Benito Juárez,Línea 2,1,5609,19.40102178,-99.13684636
+79,Norte 45,Gustavo A. Madero,Línea 6,1,735,19.48892017,-99.16307715
+80,Vallejo,Gustavo A. Madero,Línea 6,1,738,19.49005226,-99.15601073
+81,Tezozómoc,Azcapotzalco,Línea 6,1,2130,19.49518955,-99.19615495
+82,UAM-Azcapotzalco,Azcapotzalco,Línea 6,1,2907,19.49104729,-99.1862686
+83,Bellas Artes,Cuauhtémoc,Línea 2,2,16042,19.43658233,-99.14161
+84,Cuitláhuac,Azcapotzalco,Línea 2,1,7770,19.45856254,-99.18174583
+85,Terminal Aérea,Venustiano Carranza,Línea 5,1,6093,19.43420101,-99.08801228
+86,Eugenia,Benito Juárez,Línea 3,1,7618,19.38638251,-99.1571249
+87,Observatorio,Miguel Hidalgo,Línea 1,1,30492,19.39993964,-99.20091498
+88,Cuatro Caminos,Miguel Hidalgo,Línea 2,1,58027,19.46116048,-99.2158172
+89,Panteones,Azcapotzalco,Línea 2,1,3812,19.45885242,-99.20296073
+90,Copilco,Coyoacán,Línea 3,1,7634,19.33643867,-99.17710602
+91,Centro Médico,Cuauhtémoc,Línea 3,2,10983,19.40682761,-99.15481543
+92,Universidad,Coyoacán,Línea 3,1,15795,19.32707781,-99.17339802
+93,Lindavista,Gustavo A. Madero,Línea 6,1,3810,19.48831227,-99.13504855
+94,Coyoacán,Coyoacán,Línea 3,1,6752,19.36156242,-99.1707849
+95,Jamaica,Venustiano Carranza,Línea 4,2,2729,19.41112432,-99.1215219
+96,La Raza,Gustavo A. Madero,Línea 3,2,12995,19.4698487,-99.1365206
+97,Viveros/Derechos Humanos,Coyoacán,Línea 3,1,7105,19.35426668,-99.17536409
+98,Miguel Ángel de Quevedo,Coyoacán,Línea 3,1,11925,19.34644352,-99.18047713
+99,Chapultepec,Miguel Hidalgo,Línea 1,1,22692,19.4206528,-99.17692436
+100,Obrera,Cuauhtémoc,Línea 8,1,5938,19.41312279,-99.1439295
+101,Allende,Cuauhtémoc,Línea 2,1,6365,19.43591562,-99.13685366
+102,Zócalo/Tenochtitlan,Cuauhtémoc,Línea 2,1,42340,19.43260264,-99.13222347
+103,Nativitas,Benito Juárez,Línea 2,1,8265,19.37970868,-99.14023145
+104,Boulevard Puerto Aéreo,Venustiano Carranza,Línea 1,1,16348,19.42134193,-99.09559697
+105,Sevilla,Benito Juárez,Línea 1,1,4713,19.42172763,-99.17092969
+106,Villa de Cortés,Benito Juárez,Línea 2,1,4262,19.38760429,-99.13876731
+107,Consulado,Venustiano Carranza,Línea 4,2,1440,19.45815121,-99.11390763
+108,Talismán,Gustavo A. Madero,Línea 4,1,1751,19.47414769,-99.10792179
+109,Valle Gómez,Venustiano Carranza,Línea 5,1,1781,19.45910407,-99.11947723
+110,Politécnico,Gustavo A. Madero,Línea 5,1,15833,19.50080394,-99.14922687
+111,Niños Héroes,Benito Juárez,Línea 3,1,2027,19.41958089,-99.15038
+112,Hospital General,Cuauhtémoc,Línea 3,1,6522,19.413932,-99.15322855
+113,Tasqueña,Coyoacán,Línea 2,1,36515,19.34389508,-99.13948874
+114,Potrero,Gustavo A. Madero,Línea 3,1,6140,19.4773422,-99.1320093
+115,Tlatelolco,Cuauhtémoc,Línea 3,1,8372,19.45522707,-99.14315382
+116,Balbuena,Venustiano Carranza,Línea 1,1,2879,19.42354375,-99.10246987
+117,Tepito,Cuauhtémémoc,Línea B,1,11866,19.44301632,-99.12417011
+118,Merced,Cuauhtémoc,Línea 1,1,21524,19.42880238,-99.12514363
+119,Insurgentes,Cuauhtémoc,Línea 1,1,19578,19.37636355,-99.17904072
+120,Juanacatlán,Cuajimalpa,Línea 1,1,1493,19.41316181,-99.18203426
+121,Plaza Aragón,Ecatepec,Línea B,1,17598,19.52870985,-99.03017328
+122,Guelatao,Iztapalapa,Línea A,1,7964,19.38533627,-99.03562282
+123,Lagunilla,Cuauhtémoc,Línea B,1,10328,19.44378973,-99.13726807
+124,La Paz,La Paz (Estado de México),Línea A,1,11346,19.35088633,-98.96100293
+125,Iztapalapa,Iztapalapa,Línea 8,1,3612,19.35791341,-99.09330116
+126,Patriotismo,Benito Juárez,Línea 9,1,2431,19.41373789,-99.17877289
+127,Cerro de la Estrella,Iztapalapa,Línea 8,1,3609,19.35622206,-99.08562
+128,Zapotitlán,Tláhuac,Línea 12,1,0,19.29699056,-99.03448011
+129,Nopalera,Tláhuac,Línea 12,1,0,19.3002509,-99.04597223
+130,Olivos,Tláhuac,Línea 12,1,0,19.304563,-99.05955292
+131,Río de los Remedios,Gustavo A. Madero,Línea B,1,9575,19.49080734,-99.04651832
+132,Múzquiz,Gustavo A. Madero,Línea B,1,15903,19.50172259,-99.04213438
+133,Atlalilco,Iztapalapa,Línea 8,2,7168,19.35628,-99.10113398
+134,Tezonco,Iztapalapa,Línea 12,1,0,19.30647037,-99.06525227
+135,Impulsora,Nezahualcóyotl,Línea B,1,16686,19.48579048,-99.04906459
+136,Escuadrón 201,Nezahualcóyotl,Línea 8,1,7741,19.36479434,-99.10921855
+137,Periférico Oriente,Nezahualcóyotl,Línea 12,1,0,19.31770648,-99.0742148
+138,Iztacalco,Iztacalco,Línea 8,1,7155,19.38888283,-99.112122
+139,Tláhuac,Tláhuac,Línea 12,1,0,19.28602612,-99.01397488
+140,UAM-I,Iztapalapa,Línea 8,1,8404,19.35118032,-99.07494245
+141,Ecatepec,Ecatepec,Línea B,1,10341,19.51568362,-99.03597508
+142,Acatitla,Iztapalapa,Línea A,1,5833,19.36489362,-99.00559799
+143,Hospital 20 de Noviembre,Álvaro Obregón,Línea 12,1,0,19.37513809,-99.17138532
+144,Eje Central,Cuauhtémoc,Línea 12,1,0,19.36149191,-99.15135573
+145,Parque de los Venados,Benito Juárez,Línea 12,1,0,19.37089278,-99.15873073
+146,San Lázaro,Cuauhtémoc,Línea B,2,8944,19.43218267,-99.11361413
+147,Romero Rubio,Venustiano Carranza,Línea B,1,4799,19.44086402,-99.09457593
+148,Villa de Aragón,Gustavo A. Madero,Línea B,1,4441,19.46182561,-99.06132922
+149,Tepalcates,Venustiano Carranza,Línea A,1,5380,19.39150175,-99.04631455
+150,Agrícola Oriental,Iztacalco,Línea A,1,2500,19.40480343,-99.06956552
+151,Deportivo Oceanía,Venustiano Carranza,Línea B,1,6755,19.45256944,-99.07914353
+152,Puebla,Venustiano Carranza,Línea 9,1,10095,19.40725469,-99.08248352
+153,Ciudad Deportiva,Iztacalco,Línea 9,1,1898,19.40858411,-99.09127037
+154,Mixiuhca,Venustiano Carranza,Línea 9,1,5713,19.40860313,-99.11330192
+155,Bosque de Aragón,Nezahualcóyotl,Línea B,1,5340,19.45827188,-99.0690585
+156,Santa Marta,Iztapalapa,Línea A,1,6836,19.3604744,-98.9951561
+157,Los Reyes,La Paz (Estado de México),Línea A,1,7754,19.35934185,-98.9768549
+158,Constitución de 1917,Tláhuac,Línea 8,1,30445,19.34627899,-99.06358403
+159,Cuauhtémoc,Cuauhtémoc,Línea 1,1,5791,19.42595841,-99.15460746
+160,Mexicaltzingo,Iztapalapa,Línea 12,1,0,19.35802316,-99.12315073
+161,Ricardo Flores Magón,Cuauhtémoc,Línea B,1,3356,19.43734392,-99.10374723
+162,Lázaro Cárdenas,Cuauhtémoc,Línea 9,1,2908,19.40722337,-99.14443376
